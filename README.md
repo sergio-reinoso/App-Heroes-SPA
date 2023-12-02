@@ -8,6 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-1. yarn create vite
-2. yarn install
-3. Iniciar el proyecto `yarn dev`
+1. `yarn create vite`
+2. `yarn install`
+3. Ver el proyecto `yarn dev`
+
+## Instalacion de React Router
+1. `yarn add react-router-dom@6`
+

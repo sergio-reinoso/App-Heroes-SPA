@@ -14,7 +14,6 @@ export const Navbar = () => {
 
             <div className="navbar-collapse">
                 <div className="navbar-nav">
-
                     <NavLink
                         className={ ({isActive}) => `nav-item nav-link ${ isActive ? 'active' : '' } `}
                         to="/marvel"

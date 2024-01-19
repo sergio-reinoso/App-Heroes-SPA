@@ -11,8 +11,5 @@ export const MarvelPage = () => {
 
     </>
 
-
-
-
   )
 }
